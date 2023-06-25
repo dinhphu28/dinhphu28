@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinhphu28" alt="dinhphu28" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot framework**
+<p align="left"> <a href="https://twitter.com/dinhphu28" target="blank"><img src="https://img.shields.io/twitter/follow/dinhphu28?logo=twitter&style=for-the-badge" alt="dinhphu28" /></a> </p>
+
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dinhphu28](https://github.com/dinhphu28)
 
 - 📝 I regularly write articles on [https://www.dinhphu28.tech/blogs](https://www.dinhphu28.tech/blogs)
 
-- 💬 Ask me about **Java, Spring Boot**
+- 💬 Ask me about **Java, Spring Boot, Git, Bash, Linux**
 
 - 📫 How to reach me **dinhphu.nguyen.20@gmail.com**
 
@@ -19,6 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/dinhphu28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dinhphu28" height="30" width="40" /></a>
+<a href="https://twitter.com/dinhphu28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dinhphu28" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dinhphu28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinhphu28" height="30" width="40" /></a>
+<a href="https://instagram.com/dinhphu.28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinhphu.28" height="30" width="40" /></a>
 </p>
 
 
