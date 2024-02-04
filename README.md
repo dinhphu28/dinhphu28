@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dinhphu28](https://github.com/dinhphu28)
 
-- 📝 I regularly write articles on [https://www.dinhphu28.tech/blogs](https://www.dinhphu28.tech/blogs)
+- 📝 I regularly write articles on [https://www.dinhphu28.com/blogs](https://www.dinhphu28.com/blogs)
 
 - 💬 Ask me about **Java, Spring Boot, Git, Bash, Linux**
 
 - 📫 How to reach me **dinhphu.nguyen.20@gmail.com**
 
-- 📄 Know about my experiences [https://www.dinhphu28.tech](https://www.dinhphu28.com)
+- 📄 Know about my experiences [https://www.dinhphu28.com](https://www.dinhphu28.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
