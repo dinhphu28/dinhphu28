@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dinhphu.nguyen.20@gmail.com**
 
-- 📄 Know about my experiences [https://www.dinhphu28.tech](https://www.dinhphu28.tech)
+- 📄 Know about my experiences [https://www.dinhphu28.tech](https://www.dinhphu28.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
