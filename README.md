@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dinhphu28](https://github.com/dinhphu28)
 
-- 📝 I regularly write articles on [https://www.dinhphu28.com/blogs](https://www.dinhphu28.com/blogs)
+- 📝 I regularly write articles on [https://www.dinhphu28.com/blog](https://www.dinhphu28.com/blog)
 
 - 💬 Ask me about **Java, Spring Boot, Git, Bash, Linux**
 
