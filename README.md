@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dinhphu28" target="blank"><img src="https://img.shields.io/twitter/follow/dinhphu28?logo=twitter&style=for-the-badge" alt="dinhphu28" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Piano**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dinhphu28](https://github.com/dinhphu28)
 
