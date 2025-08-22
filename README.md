@@ -23,6 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Root and Intermediate Certificate Authority with Easy-RSA](https://www.dinhphu28.com/blog/2025/build-a-root-and-intermediate-certificate-authority-with-easy-rsa/)
+- [Why Build Your Own Certificate Authority](https://www.dinhphu28.com/blog/2025/why-build-your-own-certificate-authority/)
+- [ZRAM and how I deal with the memory usage in my Linux system](https://www.dinhphu28.com/blog/2025/zram-swap/)
+- [P2P - UDP Hole Punching](https://www.dinhphu28.com/blog/2024/udp-hole-punching/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
