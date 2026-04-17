@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Java Virtual Threads Explained: How They Work and When to Use Them](https://www.dinhphu28.com/blog/2026/java-virtual-threads-explained-how-they-work-and-when-to-use-them/)
 - [Why Blocking I/O Hurts and How Asynchronous Fixes It](https://www.dinhphu28.com/blog/2026/why-blocking-io-hurts-and-how-asynchronous-fixes-it/)
 - [Bloom Filter and How I Prevent Tons of Message Duplication](https://www.dinhphu28.com/blog/2026/bloom-filter-and-application/)
 - [Choosing the Right Password Hashing Algorithm](https://www.dinhphu28.com/blog/2026/choosing-the-right-password-hashing-algorithm/)
-- [Error Handling in Programming: Best Practices and Techniques](https://www.dinhphu28.com/blog/2026/error-handling/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
