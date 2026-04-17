@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Blocking I/O Hurts and How Asynchronous Fixes It](https://www.dinhphu28.com/blog/2026/why-blocking-io-hurts-and-how-asynchronous-fixes-it/)
 - [Bloom Filter and How I Prevent Tons of Message Duplication](https://www.dinhphu28.com/blog/2026/bloom-filter-and-application/)
 - [Choosing the Right Password Hashing Algorithm](https://www.dinhphu28.com/blog/2026/choosing-the-right-password-hashing-algorithm/)
 - [Error Handling in Programming: Best Practices and Techniques](https://www.dinhphu28.com/blog/2026/error-handling/)
-- [How to set up SSH Certificate Authentication with Your Own CA](https://www.dinhphu28.com/blog/2025/how-to-set-up-ssh-certificate-authentication-with-your-own-ca/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
