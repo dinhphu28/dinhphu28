@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimistic and Pessimistic Locking](https://www.dinhphu28.com/blog/2026/optimistic-and-pessimistic-locking/)
 - [Transactional and Performance Problem](https://www.dinhphu28.com/blog/2026/transactional-and-performance-problem/)
 - [Software Quality by Nature: The relationship between Software Engineering, Mathematics and Science](https://www.dinhphu28.com/blog/2026/software-quality-by-nature-the-relationship-between-software-engineering-mathematics-and-science/)
 - [Adapter Pattern and Applications](https://www.dinhphu28.com/blog/2026/adapter-design-pattern/)
-- [Java Virtual Threads Explained: How They Work and When to Use Them](https://www.dinhphu28.com/blog/2026/java-virtual-threads-explained-how-they-work-and-when-to-use-them/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
