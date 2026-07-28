@@ -23,10 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cognitive Traps and Defensive Career Mechanisms in Linear Software Operations](https://www.dinhphu28.com/blog/2026/cognitive-traps-and-defensive-career-mechanisms-in-linear-software-operations/)
 - [AI không thể nén một cục kiến thức khổng lồ vào não bạn](https://www.dinhphu28.com/blog/2026/ai-khong-the-nen-mot-cuc-kien-thuc-khong-lo-vao-nao-ban/)
 - [Making a Fragile System](https://www.dinhphu28.com/blog/2026/making-a-fragile-system/)
 - [Tại sao mình xài terminal trong hầu hết công việc làm software](https://www.dinhphu28.com/blog/2026/tai-sao-minh-xai-terminal/)
-- [Optimistic and Pessimistic Locking](https://www.dinhphu28.com/blog/2026/optimistic-and-pessimistic-locking/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
